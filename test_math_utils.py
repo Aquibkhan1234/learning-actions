@@ -7,4 +7,4 @@ def test_multiply():
   assert multiply(4,5) == 20
 
 def test_add_negative():
-  assert add(-1.-1) == -2
+  assert add(-1,-1) == -2
